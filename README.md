@@ -7,7 +7,7 @@
 <h4>Stack:</h4>
 
 
-ReactJS + хуки
+<ul>ReactJS + хуки</ul>
 <ul>MobX</ul>
 <ul>Axios</ul>
   <ul>MaterialUI</ul>
