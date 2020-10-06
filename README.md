@@ -1,12 +1,13 @@
-<h1>install package npm/yarn install for download dep.</h1>
+<h4>install package npm/yarn install for download dep.</h4>
 
-<h2>Npm npm run start - for npm package manager.</h2>
+<h4>Npm npm run start - for npm package manager.</h4>
 
-<h1>Yarn yarn start - for yarn package manager.</h2>
+<h4>Yarn yarn start - for yarn package manager.</h4>
 
-<h1>Stack:</h1>
+<h4>Stack:</h4>
+
 
 ReactJS + хуки
-MobX
-Axios
-MaterialUI
+<ul>MobX</ul>
+<ul>Axios</ul>
+  <ul>MaterialUI</ul>
