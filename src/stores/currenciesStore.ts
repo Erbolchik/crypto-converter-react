@@ -5,7 +5,7 @@ import { TCoin, TCoinDiff } from '../types';
 import stores from '../stores';
 
 class CurrenciesStore {
-  @observable private items: TCoin[] = [];
+  @observable public items: TCoin[] = [];
   @observable private diffObj: TCoinDiff = {};
 
   @computed
