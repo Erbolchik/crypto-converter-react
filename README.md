@@ -1,7 +1,12 @@
-<h1>Конвертер крипто-валют</h1>
+<h4>install package npm/yarn install for download dep.</h4>
 
-<ul>
-<li>ReactJS</li>
-<li>MobX</li>
-<li>Material UI</li>
-</ul>
+<h4>Npm npm run start - for npm package manager.</h4>
+
+<h4>Yarn yarn start - for yarn package manager.</h4>
+
+<h4>Stack:</h4>
+
+<ul>ReactJS + хуки</ul>
+<ul>MobX</ul>
+<ul>Axios</ul>
+  <ul>MaterialUI</ul>
